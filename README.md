@@ -1,83 +1,46 @@
  ##Santrauka
-MANO PIRMOJI SAUGYKLA GITHUB PLATFORMOJE
+🟢 Programėlės idėja: „NextBite“
+💡 Pagrindinė mintis
 
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
+Programėlė pagal paskutinį jūsų valgį, nuotaiką ir tikslą automatiškai pasiūlo subalansuotą kito valgio idėją su receptu ir pirkinių sąrašu.
 
-# Project Title
+🔑 Funkcijos
 
-Final project for the Building AI course
+Automatinė analizė
+Įvedi (arba nufotografuoji) paskutinį valgytą patiekalą – AI atpažįsta ingredientus ir porcijas.
 
-## Summary
+Tikslai
+Pasirenki tikslą: „Lengvesnis maistas“, „Daugiau baltymų“, „Energijos“ ir pan.
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Kito valgio pasiūlymas
+Sistema sukuria kito valgio receptą su kalorijų bei maistinių medžiagų balansu.
 
+Pirkinių sąrašas
+Vienu paspaudimu gali gauti produktų sąrašą (integruota su parduotuvėmis).
 
-## Background
+Sezoninės idėjos
+Programėlė atsižvelgia į sezoną ar vietinius produktus.
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Nuotaikos režimas
+Pasirink „nuotaiką“ (pvz. „noriu saldaus“ arba „noriu kažko sočio“) – ir pasiūlymas adaptuojamas.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+🎨 Dizaino koncepcija
 
+Šviesus minimalistinis stilius, spalvos – žalia + balta.
 
-## How is it used?
+Pradinis ekranas – paskutinio valgio apžvalga.
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Mygtukas „Rekomenduok kitą valgį“.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+Rezultatas – patiekalo nuotrauka + trumpas aprašymas + „kaip pasigaminti“ žingsniai.
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+📝 Pavyzdys
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+Tu valgai pietums „vištienos kepsnį su bulvėmis“.
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+Programėlė siūlo vakarienei: „Lašišos salotos su avokadu“
 
-   # write your solution here
+Parodo kalorijas: 520 kcal
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+Duoda receptą + pirkinių sąrašą
 
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
-vi
