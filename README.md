@@ -1,4 +1,4 @@
-# LABAS
+ ##Santrauka
 MANO PIRMOJI SAUGYKLA GITHUB PLATFORMOJE
 
 <!-- This is the markdown template for the final project of the Building AI course, 
