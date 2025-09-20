@@ -1,5 +1,5 @@
 # Dirbtinio intelekto mentorius programavimo mokymuisi mažose mokyklose  
-Galutinis projektas
+Projektas sukurti DI mentorių programavimo mokymuisi mažose mokyklose
 
 ## Summary  
 Šis projektas kuria DI pagrįstą virtualų mentorių, kuris padeda mokiniams mažose mokyklose mokytis programavimo pagrindų. Jis suteikia asmeninį grįžtamąjį ryšį, paaiškina programavimo sąvokas ir pasiūlo praktines užduotis net tada, kai mokytojams trūksta laiko ar išteklių.  
