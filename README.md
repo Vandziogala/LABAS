@@ -1,4 +1,5 @@
-# Dirbtinio intelekto mentorius programavimo mokymuisi mažose mokyklose  
+# Dirbtinio intelekto mentorius programavimo mokymuisi mažose mokyklose
+
 Projektas sukurti DI mentorių programavimo mokymuisi mažose mokyklose
 
 ## Summary  
