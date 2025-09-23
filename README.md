@@ -5,7 +5,7 @@ Projektas sukurti DI mentorių programavimo mokymuisi mažose mokyklose
 ## Santrauka
 Šis projektas kuria DI pagrįstą virtualų mentorių, kuris padeda mokiniams mažose mokyklose mokytis programavimo pagrindų. Jis suteikia asmeninį grįžtamąjį ryšį, paaiškina programavimo sąvokas ir pasiūlo praktines užduotis net tada, kai mokytojams trūksta laiko ar išteklių.  
 
-## Background  
+## Problema  
 Mažose mokyklose mokiniai dažnai susiduria su iššūkiais mokantis programavimo:  
 * trūksta kvalifikuotų mokytojų  
 * nėra modernių programinės įrangos priemonių  
@@ -14,7 +14,7 @@ Mažose mokyklose mokiniai dažnai susiduria su iššūkiais mokantis programavi
 
 Mano motyvacija: noriu, kad programavimo mokymasis būtų prieinamesnis ir veiksmingesnis kaimo ar ribotų išteklių turinčiose mokyklose. Tai svarbu, nes skaitmeninis raštingumas ir programavimo įgūdžiai yra būtini šiandieniniame pasaulyje, tačiau ne visi mokiniai turi vienodas galimybes.  
 
-## How is it used?  
+## Kaip tai naudojama?  
 Mokiniai prisijungia prie internetinės platformos arba mobiliosios programėlės, kurioje DI mentorius veikia kaip mokytojas:  
 * paaiškina programavimo sąvokas su pavyzdžiais  
 * patikrina mokinio kodą ir pasiūlo pataisymus  
@@ -26,7 +26,7 @@ Mokytojai taip pat gali naudotis platforma, kad:
 * matytų, kurios temos kelia daugiausia sunkumų  
 * gautų pasiūlymus pamokoms ir veikloms   
 
-## Data sources and AI methods  
+## Duomenys ir DI metodai  
 * Atviri edukaciniai duomenų rinkiniai (Python, Scratch pavyzdžiai)  
 * Mokinų sąveikos duomenys (išspręstos užduotys, klaidos)  
 * Naudojami DI metodai:  
@@ -34,18 +34,18 @@ Mokytojai taip pat gali naudotis platforma, kad:
   * Stiprinamasis mokymasis (užduočių personalizavimui)  
   * Kodo analizės algoritmai (klaidoms aptikti ir patarimams teikti)  
 
-## Challenges  
+## Iššūkiai
 * DI negali visiškai pakeisti mokytojo – socialiniam ir emociniam ugdymui vis dar reikalinga žmogaus pagalba.  
 * Rizika, kad mokiniai pernelyg pasikliaus įrankiu, užuot patys sprendę problemas.  
 * Etiniai klausimai: mokinių duomenų apsauga ir sąžiningumo užtikrinimas.  
 
-## What next?
+## Kas toliau?
 Ateities patobulinimai galėtų būti:  
 * balsu pagrįsti paaiškinimai (DI „kalbantis“ su mokiniais)  
 * integracija su fiziniais įrenginiais  
 * išplėtimas į daugiau programavimo kalbų  
 * bendradarbiavimas su mokytojais kuriant pamokų planus  
 
-## Acknowledgments  
+## Padėkos  
 * Įkvėpta mažų mokyklų iššūkių skaitmeniniame ugdyme  
 * Atviri edukaciniai ištekliai ir programavimo bendruomenės 
